@@ -1,0 +1,12 @@
+{
+    "name": "php-ml-test/twitter-sentiment",
+    "description": "Testing PHP ML for twitter sentiment classification",
+    "type": "project",
+    "authors": [{
+            "name": "Sardez, Angelito Jr."
+        }
+    ],
+    "require": {
+        "php-ai/php-ml": "^0.4.1"
+    }
+}
